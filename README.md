@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio for programming and other engineering related projects
+Portfolio for programming and engineering projects.
